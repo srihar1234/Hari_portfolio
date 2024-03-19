@@ -38,6 +38,7 @@ const Footer = () => {
             <div className="social">
             <FaLinkedin size={20} style={{color:"#fff",marginRight:"2rem"}}/>
             <FaGithub size={20} style={{color:"#fff",marginRight:"2rem"}}/>
+            <FaMailBulk size={20} style={{color:"#fff",marginRight:"2rem"}}/>
             </div>
         </div>
 

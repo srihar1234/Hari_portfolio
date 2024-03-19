@@ -5,6 +5,7 @@ import HeroImage from "../Components/HeroImage"
 import Navbar from "../Components/Navbar"
 import WorkCard from '../Components/WorkCard';
 import Form from  "../Components/Form"
+import List from '../Components/List';
 
 function Home() {
   return (
@@ -12,7 +13,7 @@ function Home() {
       <Navbar/>
       <HeroImage/>
       <WorkCard/>
-      <Form/>
+      <List/> 
       <Footer/>
     </div>
   )
