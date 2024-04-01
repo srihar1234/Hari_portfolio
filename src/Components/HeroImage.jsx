@@ -18,7 +18,7 @@ const HeroImage = () => {
         <div className="buttons">
           <a href="https://github.com/srihar1234?tab=repositories" target="_blank" className="btn"><FaGithub/> GITHUB</a>
           <a href="https://www.linkedin.com/in/sri-hari-k/" target="_blank" className="btn btn-light"><FaLinkedin/> LINKEDIN</a>
-          <a href="https://drive.google.com/file/d/19Mf2Hyq_4n0_9w9h50YKI8oB-JTmYFmZ/view?usp=drive_link" target="_blank" className="btn">RESUME</a>
+          <a href="https://drive.google.com/file/d/1VzKj9XqW5dG5Lxthkmb0ojdiLBvM5xlg/view?usp=sharing" target="_blank" className="btn">RESUME</a>
         </div>
       </div>  
     </div>
